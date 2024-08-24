@@ -1,0 +1,14 @@
+{
+  "$schema": "http://json.schemastore.org/launchsettings.json",
+  "profiles": {
+    "CalendarWebApi": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "api/calendar",
+      "applicationUrl": "http://*:8000",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
